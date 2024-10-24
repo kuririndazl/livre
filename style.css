@@ -1,0 +1,59 @@
+li {
+     display: inline-block;
+     margin: 20px;
+     margin-left: 10%;
+}
+
+a {
+    color:gray;
+    text-decoration: none;
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+
+a:hover {
+          color:rgb(212, 8, 8);
+}
+
+h1 {
+     text-align: center;
+     color: red;
+     border: 1px solid red;
+     border-radius: 20px;
+}
+
+h3 {
+     color: white;
+     border: 1px solid gray;
+     border-radius: 20px;
+}
+
+body {
+       background: black;
+}
+
+h2 {
+     color: red;
+     border: 2px solid gray;
+     border-radius: 20px;
+}
+
+img {
+      width: 15%
+}
+
+texto {
+        color: yellow;
+}
+
+texto:hover {
+              color: rgb(212, 8, 8);
+}
+
+td {
+     color: red;
+}
+
+
+
+
